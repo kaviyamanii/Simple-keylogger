@@ -15,5 +15,5 @@ A basic keylogger script written in Python that logs keystrokes and timestamps, 
 - Required libraries: `pynput`, `datetime`
 
 Install the required libraries using pip:
-command:
+
 pip install pynput
